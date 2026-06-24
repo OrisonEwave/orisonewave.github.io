@@ -26,6 +26,12 @@ html, body {
   background-attachment: fixed;
 }  
 
+@media (max-width: 480px){
+  body {
+    background-image: none !important;
+  }
+}
+
 #all_wrap {
 	padding: 10px;
 }
