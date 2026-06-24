@@ -32,6 +32,10 @@ html, body {
   }
  header {
 	 position:relative;
+ }
+	#about {
+		width:100%;
+	}
 }
 
 #all_wrap {
