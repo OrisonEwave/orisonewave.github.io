@@ -30,6 +30,8 @@ html, body {
   body {
     background-image: none !important;
   }
+ header {
+	 position:relative;
 }
 
 #all_wrap {
