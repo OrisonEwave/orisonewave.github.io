@@ -19,7 +19,7 @@ html, body {
   font-family: "Courier Prime", monospace;
   color: #fff;
   background-color: #2A2B2D;
-  background-image: url("/set.jpg") ;
+  background-image: url("../images/set.jpg") ;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
