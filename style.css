@@ -99,6 +99,12 @@ header {
 	padding: 5%;
 }
 
+#about {
+	padding: 5%;
+	width:25%;
+	float: left;
+}
+
 
 footer {
 	z-index: 50;
