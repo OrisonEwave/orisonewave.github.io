@@ -79,6 +79,7 @@ header {
 #header_nav {
 	width: auto;
 	float: right;
+	margin-right: 10px;
 }
 
 
