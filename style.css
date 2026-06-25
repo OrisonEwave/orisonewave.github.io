@@ -29,15 +29,16 @@ html, body {
 @media (max-width: 480px){
   body {
     background-image: none !important;
+	  background-attachment: fixed !important;
   }
  header {
-	 position:relative;
+	 position:relative !important;
  }
 	#hello {
 		margin-top:40px;
 	}
 	#about {
-		width:100%;
+		width:100% !important;
 	}
 }
 
