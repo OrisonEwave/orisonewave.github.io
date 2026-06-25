@@ -27,9 +27,9 @@ html, body {
 }  
 
 @media (max-width: 480px){
-  body {
+  html, body {
     background-image: none !important;
-	  background-attachment: none !important;
+	  
   }
  header {
 	 position:relative !important;
