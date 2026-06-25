@@ -40,6 +40,10 @@ html, body {
 	#about {
 		width:90% !important;
 	}
+
+	footer {
+		position:relative !important;
+	}
 }
 
 #all_wrap {
